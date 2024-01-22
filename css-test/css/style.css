@@ -40,6 +40,7 @@ a {
 img {
     width: 50vw;
     height: 500px;
+    object-fit: cover;
 }
 .absolute__text {
     position: absolute;
